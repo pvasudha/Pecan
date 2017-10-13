@@ -1,6 +1,6 @@
-### Pecan
+# Pecan
 
-##Pecan is a scalable survey platform.
+## Pecan is a scalable survey platform.
 
 ![Alt text](/mockups/login.png?raw=true "Login")
 
